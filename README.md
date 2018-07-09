@@ -13,5 +13,10 @@ devtools::install_github("WhyRFoundation/WhyR")
 
 ```
 library(WhyR)
+
 data(abstracts_WhyR2017)
+head(abstracts_WhyR2017)
+
+data(abstracts_WhyR2018)
+head(abstracts_WhyR2018)
 ```
