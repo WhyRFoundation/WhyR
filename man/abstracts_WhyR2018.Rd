@@ -9,7 +9,7 @@
 data(abstracts_WhyR2018)
 }
 \description{
-Abstracts from the WhyR? 2018 Conference. Abstracts are in Polish.
+Abstracts from the WhyR? 2018 Conference. Abstracts are in English.
 }
 \details{
 \itemize{

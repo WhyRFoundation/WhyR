@@ -1,12 +1,23 @@
+---
+title: "WhyR? Abstracts"
+author: "Vignette Author"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{WhyR? Abstracts}
+  %\VignetteEngine{knitr::rmarkdown}
+  \usepackage[utf8]{inputenc}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
 # WhyR
 
 An R package with WhyR? Conference data sets.
 
 
-## Install from GitHub
-```
-devtools::install_github("WhyRFoundation/WhyR")
-```
 ##Data sets
 
 ### abstracts - WhyR? 2018

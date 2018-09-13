@@ -1,6 +1,6 @@
 #' WhyR? 2018 abstracts
 #'
-#' Abstracts from the WhyR? 2018 Conference. Abstracts are in Polish.
+#' Abstracts from the WhyR? 2018 Conference. Abstracts are in English.
 #'
 #' \itemize{
 #' \item author
