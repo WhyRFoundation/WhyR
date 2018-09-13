@@ -7,7 +7,7 @@ An R package with WhyR? Conference data sets.
 ```
 devtools::install_github("WhyRFoundation/WhyR")
 ```
-##Data sets
+## Data sets
 
 ### abstracts - WhyR? 2018
 
@@ -25,9 +25,11 @@ head(abstracts_WhyR2017)
 
 The data set `abstracts_WhyR2017` contains abstracts from the WhyR? 2017 Conference. Abstracts are in Polish.
 
+
 ```
 library(WhyR)
 
 data(abstracts_WhyR2018)
 head(abstracts_WhyR2018)
 ```
+
